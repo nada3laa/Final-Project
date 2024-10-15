@@ -1,0 +1,254 @@
+{ 
+  "categories": [ 
+    { 
+      "id": "1", 
+      "name": "Sunblock", 
+      "image": "/image/sun.jpg" 
+    }, 
+    { 
+      "id": "2", 
+      "name": "Cleanser", 
+      "image": "/image/clean.jpg" 
+    }, 
+    { 
+      "id": "3", 
+      "name": "Moisturizer", 
+      "image": "/image/moist.jpg" 
+    }, 
+    { 
+      "id": "4", 
+      "name": "Facemask", 
+      "image": "/image/mask.jpg" 
+    } 
+  ], 
+  "products": [ 
+    { 
+      "id": "1", 
+      "category": "Sunblock", 
+      "name": "Sun block SPF 50", 
+      "brand": "Nivea", 
+      "price": 150, 
+      "description": "Mit LSF 50 Die Sonnencreme...", 
+      "image": "/image/s1.jpg" 
+    }, 
+    { 
+      "id": "2", 
+      "category": "Sunblock", 
+      "name": "Ultra Protect Sun Cream", 
+      "brand": "La Roche-Posay", 
+      "price": 200, 
+      "description": "La Roche Posay Ultra Protection Invisible SPF 50 Fluide is a fine sun protection lotion with the highest UVA protection since the history of the Anthelios line. Your skin is well protected from UVA, UVB, infrared and pollution. In addition, the lotion is resistant to water, sweat, and sand, and the lotion won't sting your eyes. The product has a fine and light texture that does not stick and does not leave a haze on your skin.", 
+      "image": "/image/s2.jpg" 
+    }, 
+    { 
+      "id": "3", 
+      "category": "Sunblock", 
+      "name": "SPF 30 Sunscreen", 
+      "brand": "Banana Boat", 
+      "price": 180, 
+      "description": "Introducing Banana Boat Sport Performance Sunscreen Lotion SPF 30 in a convenient 1 oz travel-size bottle, your ultimate companion for on-the-go sun protection. Engineered for those with active lifestyles, this sunscreen delivers powerful defense against harmful UV rays while you conquer your day outdoors. Formulated with SPF 30, this lotion provides broad spectrum UVA and UVB protection, shielding your skin from sunburn and premature aging. Its sweat-resistant formula ensures long-lasting wear, making it ideal for sports, outdoor activities, and adventures under the sun. ", 
+      "image": "/image/s3.jpg" 
+    }, 
+    { 
+      "id": "4", 
+      "category": "Sunblock", 
+      "name": "Sheer Zinc Sun block", 
+      "brand": "Neutrogena", 
+      "price": 210, 
+      "description": "Helps prevent sunburn. If used as directed with other sun protection measures (see directions), decreases the risk of skin cancer and early skin aging caused by the sun. Glides on easily for convenient, hands-free, no-mess application. Beach strength UVA/UVB protection. Forms a breathable barrier to help defend against the harsh elements at the beach. Water resistant (80 minutes).", 
+      "image": "/image/s4.jpg" 
+    }, 
+    { 
+      "id": "5", 
+      "category": "Sunblock", 
+      "name": "Daily Defense SPF 50", 
+      "brand": "Aveeno", 
+      "price": 190, 
+      "description": "Protect your skin, even on the go, with Aveeno Protect + Soothe Mineral Sunscreen Stick with broad spectrum SPF 50 for face and body. Designed for daily use on sensitive skin, this fragrance-free sunscreen stick is gentle on skin while providing powerful sun protection against skin aging UVA/UVB rays. Protect and soothe with this effective and nourishing moisturizing sunscreen formula containing the naturally sourced active ingredient zinc oxide, as well as pure oat essence. From a dermatologist recommended brand for over 70 years, this body sunscreen for face and body can be easily applied with one hand and glides on skin for clear protection without the mess. Skin feels soft, non-greasy, and non-sticky. With 100% Zinc Oxide as the active ingredient, this mineral sunscreen lotion SPF 50 is water- and sweat-resistant for up to 80 minutes and is paraben-, phthalate- & fragrance-free. The travel size sunscreen stick is suitable for daily use at home & on the go to help prevent sunburn.", 
+      "image": "/image/s5.jpg" 
+    }, 
+    { 
+      "id": "6", 
+      "category": "Sunblock", 
+      "name": "Bobai sunscreen tinted", 
+      "brand": "Bobai", 
+      "price": 146, 
+      "description": "BOBAI Tinted Cream For All Skin Types With Tinted Texture: . Provides High Protection Against UVA & UVB Harmful Effects (Sunburn, Sun Intolerance…...). . Enriched with Vitamin E to Prevent premature aging . Water Resistance . Fair Color to match all skin", 
+      "image": [ 
+        "/image/slideshow11.jpg", 
+        "/image/slideshow12.jpg", 
+        "/image/s6.jpg", 
+        "/image/slideshow13.jpg", 
+        "/image/slideshow14.jpg" 
+      ] 
+    }, 
+    { 
+      "id": "7", 
+      "category": "Cleanser", 
+      "name": "Hydrating Cleanser", 
+      "brand": "CeraVe", 
+      "price": 120, 
+      "description": "Promotes the regeneration of new cells and makes the skin smooth, elastic and naturally beautiful. Provide intense hydration and helps increase skin's ability to retain moisture.", 
+      "image": "/image/c1.jpg" 
+    }, 
+    { 
+      "id": "8", 
+      "category": "Cleanser", 
+      "name": "Purifying Gel Cleanser", 
+      "brand": "Bioderma", 
+      "price": 140, 
+      "description": "IndicationDaily cleaning gel liporestitutivo, purifying and relipidizzante For Very Dry Skin or atopic tendency The use of Bioderma Atoderm PP Gel Moussant Apply Atoderm PP Gel Moussant on the skin moist. Massage gently, rinse thoroughly. Atoderm PP Gel Moussant should be used 1 or 2 times a day. Apply then a moisturising treatment suitable for very dry skin or atopic tendency, as Atoderm PP Baume or Atoderm PO zinc.", 
+      "image": "/image/c2.jpg" 
+    }, 
+    { 
+      "id": "9", 
+      "category": "Cleanser", 
+      "name": "Foaming Cleanser", 
+      "brand": "La Roche-Posay", 
+      "price": 160, 
+      "description": "MELA B3 Clarifying Micro-peeling gel is the new cleanser from the MELA B3 range, powered by multi-patented Melasyl™ & Niacinamide to reduce the appearance of imperfections and leave skin looking brighter & more radiant. Formulated with our new patented molecule Melasyl™ and Pure Niacinamide, our new range helps correct the look of even the most persistent dark spots and helps stimulate the skin’s natural cell renewal process. ", 
+      "image": "/image/c3.jpg" 
+    }, 
+    { 
+      "id": "10", 
+      "category": "Cleanser", 
+      "name": "Brightening Cleanser", 
+      "brand": "Olay", 
+      "price": 130, 
+      "description": "Olay Natural White Cleansing Face Wash thoroughly cleanses your skin to bring it one step closer to a beautiful fairness. Its rich and complex formula with only natural ingredients works to inhibit melanin production and help restore your natural radiance. This gentle foam cleanser removes all impurities from your skin, including traces of make-up, and prepares your skin for the next steps of daily your beauty routine. ", 
+      "image": "/image/c4.jpg" 
+    }, 
+    { 
+      "id": "11", 
+      "category": "Cleanser", 
+      "name": "Charcoal Cleanser", 
+      "brand": "Biore", 
+      "price": 150, 
+      "description": "Enriched with rose quartz and activated carbon, the cleansing wash gel from Bioré penetrates deep into the pores, removes dirt, sebum and make-up without drying out the skin and makes it shine again. The skin is thoroughly cleaned, while deeply relaxing.", 
+      "image": "/image/c5.jpg" 
+    }, 
+    { 
+      "id": "12", 
+      "category": "Cleanser", 
+      "name": "Micellar Cleansing Water", 
+      "brand": "Garnier", 
+      "price": 110, 
+      "description": "Fast Bright Purifying Gel Wash from Garnier, a new formula made specifically for Oily Skin. Deeply cleanses the face by removing excess oils to eliminate shine, and purifies the pores by removing 99.9% of bacteria. Rich in Vitamin C and lemon extract that leaves the skin bright, glowy and unified. Gentle, light weight formula that is dermatologically approved and tested. Use daily on wet face.", 
+      "image": "/image/c6.jpg" 
+    }, 
+    { 
+      "id": "13", 
+      "category": "Moisturizer", 
+      "name": "Moisturizing Cream", 
+      "brand": "Cetaphil", 
+      "price": 130, 
+      "description": "Rich moisturizing cream for dry skin.", 
+      "image": "/image/m1.jpg" 
+    }, 
+    { 
+      "id": "14", 
+      "category": "Moisturizer", 
+      "name": "Hydro Boost Water Gel", 
+      "brand": "Neutrogena", 
+      "price": 160, 
+      "description": "Lightweight moisturizer for long-lasting hydration.", 
+      "image": "/image/m2.jpg" 
+    }, 
+    { 
+      "id": "15", 
+      "category": "Moisturizer", 
+      "name": "Advanced Night Repair Cream", 
+      "brand": "Estee Lauder", 
+      "price": 300, 
+      "description": "Night repair moisturizer for deep hydration.", 
+      "image": "/image/m3.jpg" 
+    }, 
+    { 
+      "id": "16", 
+      "category": "Moisturizer", 
+      "name": "Daily Moisturizing Lotion", 
+      "brand": "Aveeno", 
+      "price": 140, 
+      "description": "Daily moisturizer for soft, smooth skin.", 
+      "image": "/image/m4.jpg" 
+    }, 
+    { 
+      "id": "17", 
+      "category": "Moisturizer", 
+      "name": "Whipped Face Cream", 
+      "brand": "Tatcha", 
+      "price": 250, 
+      "description": "Luxurious whipped moisturizer for radiant skin.", 
+      "image": "/image/m5.jpg" 
+    }, 
+    { 
+      "id": "18", 
+      "category": "Moisturizer", 
+      "name": "Ultra Facial Cream", 
+      "brand": "Kiehl's", 
+      "price": 220, 
+      "description": "24-hour hydration moisturizer.", 
+      "image": "/image/m6.jpg" 
+    }, 
+    { 
+      "id": "19", 
+      "category": "Facemask", 
+      "name": "Hydrating Face mask", 
+      "brand": "Garnier", 
+      "price": 80, 
+      "description": "Hydrating Face mask for deep moisture.", 
+      "image": "/image/f1.jpg" 
+    }, 
+    { 
+      "id": "20", 
+      "category": "Facemask", 
+      "name": "Purifying Charcoal Mask", 
+      "brand": "eva", 
+      "price": 110, 
+      "description": "Charcoal-based mask for purifying the skin.", 
+      "image": "/image/f2.jpg" 
+    }, 
+    { 
+      "id": "21", 
+      "category": "Facemask", 
+      "name": "Brightening Vitamin C Mask", 
+      "brand": "Nivea", 
+      "price": 95, 
+      "description": "Brightening Facemask with Vitamin C.", 
+      "image": "/image/f3.jpg" 
+    }, 
+    { 
+      "id": "22", 
+      "category": "Facemask", 
+      "name": "Detoxifying Clay Mask", 
+      "brand": "L'Oreal", 
+      "price": 85, 
+      "description": "Clay-based mask for detoxifying the skin.", 
+      "image": "/image/f4.jpg" 
+    }, 
+    { 
+      "id": "23", 
+      "category": "Facemask", 
+      "name": "Nourishing Honey Mask", 
+      "brand": "Burt's Bees", 
+      "price": 100, 
+      "description": "Honey-infused mask for nourishing the skin.", 
+      "image": "/image/f5.jpg" 
+    }, 
+    { 
+      "id": "24", 
+      "category": "Facemask", 
+      "name": "Soothing Aloe Vera Mask", 
+      "brand": "purederm", 
+      "price": "110", 
+      "description": "Aloe vera mask for soothing sensitive skin.elastic and naturally beautiful. Provide intense hydration and helps increase skin's ability to retain moisture.", 
+      "image": [ 
+        "/image/f6.jpg", 
+        "/image/slideshow21.jpg", 
+        "/image/slideshow22.jpg", 
+        "/image/slideshow23.jpg", 
+        "/image/slideshow24.jpg" 
+      ] 
+    } 
+  ] 
+}

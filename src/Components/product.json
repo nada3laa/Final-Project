@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Desert Sportive Canvas Sock Sneakers - GREY",
+        "image": "images/new/new-1.jpg",
+        "price": " 200"
+    },
+    {
+        "id": 2,
+        "name": "Desert Men's Stylish Casual Lace-up Leather Sneakers",
+        "image": "images/new/new-2.jpg",
+        "price": "210"
+    },
+    {
+        "id": 3,
+        "name": "Chicago Perforated Clogs For Men ",
+        "image": "images/new/new-3.jpg",
+        "price": " 220"
+    },
+    {
+        "id": 4,
+        "name": "Genuine Leather Slip On Shoes - Brown",
+        "image": "images/new/new-4.jpg",
+        "price": " 230"
+    }
+]
